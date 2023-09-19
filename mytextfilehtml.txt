@@ -1,0 +1,8 @@
+There are a complete description about the html coding.
+
+git config --global user.name="Mukhtiar84"
+git config --global user.email="mukhtiaralikmc@gmai.com"
+
+git add .
+git commit -m "i have created a html text file"
+git push
